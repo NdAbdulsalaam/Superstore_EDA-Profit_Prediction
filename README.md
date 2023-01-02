@@ -21,4 +21,4 @@ would likely increase profit and reduce cost.
 ## Algorithm Used
 - Linear Regression
 
-## Where is the result of this Analysis? [Follow!](https://drive.google.com/file/d/1Tr54lBGeNtr7FA0ki6kbVc8d9vEvj97i/view?usp=sharing)
+## To read the report of this analysis, [Follow!](https://drive.google.com/file/d/1Tr54lBGeNtr7FA0ki6kbVc8d9vEvj97i/view?usp=share_link)
