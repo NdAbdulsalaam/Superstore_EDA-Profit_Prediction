@@ -22,3 +22,6 @@ would likely increase profit and reduce cost.
 - Linear Regression
 
 ## To read the report of this analysis, [Follow!](https://drive.google.com/file/d/1Tr54lBGeNtr7FA0ki6kbVc8d9vEvj97i/view?usp=share_link)
+
+## Access on   
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/google-capstone-chicago-divvy-analysis)
