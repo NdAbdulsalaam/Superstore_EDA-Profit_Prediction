@@ -1,4 +1,4 @@
-<img src = "https://th.bing.com/th/id/R.526e52ee451113aed823f6dc0c507f6b?rik=lKQSEbymT5ZmwA&pid=ImgRaw&r=0" width = "1500"> <br>
+<img src = "super-store.jpg" width = "1500"> <br>
 
 ## Overview
 Online shopping has grown in popularity over the years, mainly because people find it convenient and easy to bargain shop from the comfort of their homes or offices. One of the most enticing factors about online shopping, particularly during the holiday season, is it alleviates the need to wait in long lines or search from store to store for a particular item. Thus, the need to best understand the customers. In this investigation, I look at the features of the superstore that can help us maximize revenue leading to increased profit. The main focus was on customer segments and how they differ in revenue and profit over the years and months.
